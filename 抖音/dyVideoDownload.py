@@ -113,6 +113,10 @@ if __name__ == '__main__':
     startDownload()
 
 # region 无用
+
+# https://www.iesdouyin.com/share/user/496625282450126?sec_uid=MS4wLjABAAAAOyyOOiqBYiPo3uIHuTrqE6OeAY2NJ3dIRBA63mn4fFA&timestamp=1568014650&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_app_name=douyin
+# https://www.iesdouyin.com/share/user/78612868824?sec_uid=MS4wLjABAAAAywJ4T_WcOFGjZ-pmCR2VmI7u4LWghclHEfgiS75UXpI&timestamp=1572186907&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_app_name=douyin
+
 # https://www.iesdouyin.com/web/api/v2/aweme/post/?
 # sec_uid=MS4wLjABAAAAOyyOOiqBYiPo3uIHuTrqE6OeAY2NJ3dIRBA63mn4fFA
 # &count=21
