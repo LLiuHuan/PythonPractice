@@ -38,7 +38,7 @@ res_json = res_json['images']
 r = requests.get(http + str(res_json[0]['url']), headers=headers)
 img = str(res_json[0]['enddate']) + '.jpg'
 if r.status_code == 200:
-    with open(img, 'wb') as f:
+    with open('/data/www/images/'+img, 'wb') as f:
         f.write(r.content)
 res_json = res_json[0]
 sql = " insert into bingImg(copyright,copyrightlink,startdate,fullstartdate, "
